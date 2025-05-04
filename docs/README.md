@@ -20,7 +20,7 @@ I submit a successful solution on LeetCode, it gets automatically pushed to this
 
 ## Connect with Me
 
-- LeetCode: [Coolwinter18](https://leetcode.com/u/Coolwinter18/)
+- LeetCode: [Coolwinter18](https://leetcode.com/u/carlosferreyra/)
 - GitHub: [carlosferreyra](https://github.com/carlosferreyra/)
 - LinkedIn: [eduferreyraok](https://linkedin.com/in/eduferreyraok)
 
